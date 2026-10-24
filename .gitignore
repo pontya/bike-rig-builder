@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Maya scenes / caches (the bike model is not distributed with this repository)
+*.ma
+*.mb
+!rig/bike_rig.ma
+*.fbx
+*.abc
+*.swatches
+incrementalSave/
+playblast*/
+*.webm
+*.mov
+*.avi
+
+# local work
+_work/
+*.log
+.DS_Store
+Thumbs.db
